@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "663c6b45d142c6a023cfbea4"
+  },
+  "item": "orange",
+  "price": 10,
+  "quantity": 2,
+  "date": "2023-03-01T08:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "663c6b45d142c6a023cfbea5"
+  },
+  "item": "milk",
+  "price": 20,
+  "quantity": 1,
+  "date": "2023-03-01T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "663c6b45d142c6a023cfbea6"
+  },
+  "item": "lemon",
+  "price": 5,
+  "quantity": 10,
+  "date": "2023-03-15T09:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "663c6b45d142c6a023cfbea7"
+  },
+  "item": "lemon",
+  "price": 5,
+  "quantity": 20,
+  "date": "2023-04-04T11:21:39.76Z"
+},
+{
+  "_id": {
+    "$oid": "663c6b45d142c6a023cfbea8"
+  },
+  "item": "orange",
+  "price": 10,
+  "quantity": 10,
+  "date": "2023-04-04T21:23:13.31Z"
+},
+{
+  "_id": {
+    "$oid": "663c6b45d142c6a023cfbea9"
+  },
+  "item": "sprite",
+  "price": 7.5,
+  "quantity": 5,
+  "date": "2025-06-04T05:08:13Z"
+},
+{
+  "_id": {
+    "$oid": "663c6b45d142c6a023cfbeaa"
+  },
+  "item": "sprite",
+  "price": 7.5,
+  "quantity": 10,
+  "date": "2025-09-10T08:43:00Z"
+},
+{
+  "_id": {
+    "$oid": "663c6b45d142c6a023cfbeab"
+  },
+  "item": "orange",
+  "price": 10,
+  "quantity": 5,
+  "date": "2026-02-06T20:20:13Z"
+},
+{
+  "_id": {
+    "$oid": "663c6b66d142c6a023cfbeac"
+  },
+  "item": "cola",
+  "price": 9.5,
+  "quantity": 4,
+  "date": "2026-02-08T20:20:13Z"
+},
+{
+  "_id": {
+    "$oid": "663c6b80d142c6a023cfbead"
+  },
+  "item": "cola",
+  "price": 9.5,
+  "quantity": 5,
+  "date": "2026-02-09T20:20:13Z"
+},
+{
+  "_id": {
+    "$oid": "663c6cf1d142c6a023cfbeb3"
+  },
+  "item": "milk",
+  "price": 20,
+  "quantity": 2,
+  "date": "2026-02-09T20:20:13Z"
+}]
